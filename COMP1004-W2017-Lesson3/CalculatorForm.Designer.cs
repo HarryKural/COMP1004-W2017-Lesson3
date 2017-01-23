@@ -314,7 +314,7 @@
             this.ResultTextBox.Location = new System.Drawing.Point(2, 99);
             this.ResultTextBox.Name = "ResultTextBox";
             this.ResultTextBox.ReadOnly = true;
-            this.ResultTextBox.Size = new System.Drawing.Size(294, 45);
+            this.ResultTextBox.Size = new System.Drawing.Size(294, 37);
             this.ResultTextBox.TabIndex = 1;
             this.ResultTextBox.TabStop = false;
             this.ResultTextBox.Text = "0";
@@ -323,9 +323,9 @@
             // LogoPictureBox
             // 
             this.LogoPictureBox.Image = global::COMP1004_W2017_Lesson3.Properties.Resources.CalculatorLogo;
-            this.LogoPictureBox.Location = new System.Drawing.Point(-1, 3);
+            this.LogoPictureBox.Location = new System.Drawing.Point(2, 3);
             this.LogoPictureBox.Name = "LogoPictureBox";
-            this.LogoPictureBox.Size = new System.Drawing.Size(300, 90);
+            this.LogoPictureBox.Size = new System.Drawing.Size(299, 90);
             this.LogoPictureBox.TabIndex = 2;
             this.LogoPictureBox.TabStop = false;
             // 
