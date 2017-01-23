@@ -98,7 +98,7 @@
             this.BackButton.Size = new System.Drawing.Size(69, 50);
             this.BackButton.TabIndex = 21;
             this.BackButton.Tag = "Other";
-            this.BackButton.Text = "<B";
+            this.BackButton.Text = "⌫";
             this.BackButton.UseVisualStyleBackColor = true;
             this.BackButton.Click += new System.EventHandler(this.CalculatorButton_Click);
             // 
